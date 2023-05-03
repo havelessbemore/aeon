@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Aeon",
+	"Description": "Create infinite levels seamlessly during gameplay",
+	"Category": "Other",
+	"CreatedBy": "Michael Rojas",
+	"CreatedByURL": "https://github.com/havelessbemore",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}
